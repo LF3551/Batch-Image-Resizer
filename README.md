@@ -38,3 +38,8 @@ python3 main.py batch-resize --input=./input_images --output=./output_images --w
 ```bash
 python main.py convert --input=input.jpg --output=output.webp --format=WEBP
 ```
+
+#### License
+
+This project is licensed under the Universal Permissive License (UPL), Version 1.0.
+

@@ -1,3 +1,30 @@
+"""
+Copyright (c) 2024 Aleksei Aleinikov
+
+Licensed under the Universal Permissive License (UPL), Version 1.0.
+You may obtain a copy of the License at https://opensource.org/licenses/UPL
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software, associated documentation and/or data (collectively the
+"Software"), to deal in the Software without restriction, including without
+limitation the rights to copy, create derivative works of, display, perform,
+and distribute the Software and make, use, sell, offer for sale, import,
+export, have made, and have sold the Software and the Larger Work(s), and to
+sublicense the foregoing rights on either these or other terms.
+
+This license is subject to the following condition:
+The above copyright notice and this permission notice must be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+"""
+
 import argparse
 import os
 from PIL import Image
