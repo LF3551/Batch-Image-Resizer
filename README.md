@@ -10,7 +10,7 @@
 ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/LF3551/Batch-Image-Resizer.git
    cd BatchImageResizer
 ```
